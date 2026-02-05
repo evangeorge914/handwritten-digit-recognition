@@ -25,5 +25,5 @@ To build a Convolutional Neural Network (CNN) model to recognize handwritten dig
 
 ## How to Run
 ```bash
-pip install -r requirements.txt
-python digit_recognition_cnn.py
+pip install -r requirement.txt
+python digit_recognition.py
